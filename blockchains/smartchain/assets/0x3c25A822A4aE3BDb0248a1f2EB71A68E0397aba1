@@ -1,1 +1,9 @@
+{
+  "name": "BullCoin",
+  "symbol": "BULL",
+  "decimals": 18,
+  "contractAddress": "0x3c25A822A4aE3BDb0248a1f2EB71A68E0397aba1",
+  "description": "BullCoin is a trader-focused meme token on Binance Smart Chain.",
+  "website": "https://bullcoinproject.com"
+}
 
